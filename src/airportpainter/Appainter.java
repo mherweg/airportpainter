@@ -478,7 +478,7 @@ public class Appainter extends javax.swing.JFrame implements PropertyChangeListe
     HashMap<String, ImageIcon> notifyImages=new HashMap<String, ImageIcon>();
     private ImageIcon getNotifyImage(String name) {
         if (! notifyImages.containsKey(name)) {
-            notifyImages.put(name, new ImageIcon(getClass().getResource(Main.imgFolder+"/notification/"+name)));
+            notifyImages.put(name, new ImageIcon(getClass().getResource(Main.imgFolder+"notification/"+name)));
         }
         
         return notifyImages.get(name);
@@ -506,7 +506,6 @@ public class Appainter extends javax.swing.JFrame implements PropertyChangeListe
                 
         
         if (evt.getPropertyName().equals("action")) {
-            System.out.println("action:"+(String) evt.getNewValue());
             jLabelAction.setText((String) evt.getNewValue());
             
             if (evt.getNewValue().equals("createSheetsName")) {
@@ -515,7 +514,6 @@ public class Appainter extends javax.swing.JFrame implements PropertyChangeListe
             
         }
         if (evt.getPropertyName().equals("mapCreator")) {
-            System.out.println("mapCreator:"+(String) evt.getNewValue());
             jLabelAction.setText((String) evt.getNewValue());
             if (evt.getNewValue().equals("drawAnAirport")) {
                 jLabelAction.setIcon(getNotifyImage("airport.png"));
