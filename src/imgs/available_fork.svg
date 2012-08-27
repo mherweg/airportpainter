@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   inkscape:export-filename="/home/francesco/Lavoro/fgfs/airportPainter/airportPainter/imgs/fork.png"
+   inkscape:export-xdpi="2.47"
+   inkscape:export-ydpi="2.47"
+   sodipodi:docname="available_fork.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="324.31343"
+     inkscape:cy="475.73213"
+     inkscape:document-units="px"
+     inkscape:current-layer="g2410"
+     showgrid="false"
+     inkscape:window-width="1279"
+     inkscape:window-height="949"
+     inkscape:window-x="0"
+     inkscape:window-y="25" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g2410"
+       transform="translate(75.903424,36.389484)"
+       inkscape:export-filename="/home/francesco/Lavoro/fgfs/airportPainter/airportPainter/imgs/avail_work.png"
+       inkscape:export-xdpi="4.75"
+       inkscape:export-ydpi="4.75">
+      <g
+         id="g3191"
+         transform="translate(0.1586464,-30.567758)">
+        <g
+           id="g3172">
+          <path
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5.96595669;stroke-miterlimit:4;stroke-opacity:1"
+             d="M 236.06479,427.84847 C 320.99266,516.31396 405.92052,604.77944 490.84839,693.24493 C 508.44578,675.64754 526.04316,658.05016 543.64054,640.45278 C 458.04094,552.55524 372.44136,464.6577 286.84175,376.76017 C 269.9161,393.7896 252.99044,410.81903 236.06479,427.84847 z"
+             id="rect2391" />
+          <path
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.05058026px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="M 66.099118,198.75012 C 0.97175171,50.273727 324.11563,415.72085 324.11563,415.72085 C 324.11563,415.72085 295.77514,467.30072 245.75054,468.79076 C 245.75054,468.79076 203.83396,468.5487 188.94629,421.60371 L 149.52384,332.63422 L 66.099118,198.75012 z"
+             id="path2392"
+             sodipodi:nodetypes="cccccc" />
+          <path
+             sodipodi:type="arc"
+             id="path2394"
+             style="fill:#000000;stroke:none"
+             sodipodi:cx="302.17758"
+             sodipodi:cy="397.75934"
+             sodipodi:rx="1.5"
+             sodipodi:ry="1.5"
+             d="M 303.67758,397.75934 A 1.5,1.5 0 1 1 300.67758,397.75934 A 1.5,1.5 0 1 1 303.67758,397.75934 z"
+             transform="matrix(0.7071068,-0.7071068,0.7071068,0.7071068,-318.98774,313.39403)" />
+        </g>
+      </g>
+      <g
+         id="g3186"
+         transform="matrix(0.7071068,0.7071068,-0.7071068,0.7071068,134.26143,-403.41727)">
+        <path
+           transform="translate(339.58208,-26.38151)"
+           d="M 303.67758,397.75934 A 1.5,1.5 0 1 1 300.67758,397.75934 A 1.5,1.5 0 1 1 303.67758,397.75934 z"
+           sodipodi:ry="1.5"
+           sodipodi:rx="1.5"
+           sodipodi:cy="397.75934"
+           sodipodi:cx="302.17758"
+           style="fill:#000000;stroke:none"
+           id="path3170"
+           sodipodi:type="arc" />
+        <path
+           id="path3166"
+           d="M 651.36128,370.58804 C 648.87759,518.58257 646.39389,666.57709 643.9102,814.57162 C 668.61978,814.57162 693.32936,814.57162 718.03894,814.57162 C 719.65228,666.48852 721.26563,518.40541 722.87896,370.32231 C 699.03974,370.41088 675.20051,370.49945 651.36128,370.58804 z"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:6.53123522;stroke-miterlimit:4;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="cccccccccc"
+           id="rect3177"
+           d="M 584.27029,152.83637 L 624.85393,305.13075 L 651.23331,152.83637 L 689.78777,303.5607 L 724.28389,154.40642 L 750.66323,308.27084 L 797.33444,152.83637 L 768.92588,380.49291 L 604.56212,382.06295 L 584.27029,152.83637 z"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:7.06788778;stroke-miterlimit:4;stroke-opacity:1" />
+      </g>
+    </g>
+  </g>
+</svg>

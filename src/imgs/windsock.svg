@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="windsock.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="/home/francesco/Lavoro/fgfs/airportPainter/airportPainter/imgs/windsock.png"
+   inkscape:export-xdpi="2.6744633"
+   inkscape:export-ydpi="2.6744633">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="18.338843"
+     inkscape:cy="1017.3544"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1270"
+     inkscape:window-height="949"
+     inkscape:window-x="1280"
+     inkscape:window-y="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M -75.555872,-140.49495 L 75.872698,-123.3521 C 75.872698,-123.3521 113.3573,-97.103961 123.62216,-89.036641 C 130.36137,-83.740191 134.7041,-61.633831 134.7041,-61.633831 L 134.53079,-36.929681 L 119.91331,-19.613521 L 14.91331,-24.398144 L -62.612071,-22.08941 L -26.923168,144.86218"
+       id="path3157"
+       sodipodi:nodetypes="ccscccccc"
+       inkscape:export-filename="/home/francesco/Lavoro/fgfs/airportPainter/airportPainter/imgs/windsock.png"
+       inkscape:export-xdpi="8.4054565"
+       inkscape:export-ydpi="8.4054565" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path3175"
+       sodipodi:cx="544.28571"
+       sodipodi:cy="652.36218"
+       sodipodi:rx="27.142857"
+       sodipodi:ry="54.285713"
+       d="M 571.42856,652.36218 A 27.142857,54.285713 0 1 1 517.14285,652.36218 A 27.142857,54.285713 0 1 1 571.42856,652.36218 z"
+       transform="matrix(-0.9947666,0,0,1.0779269,475.72294,-785.20899)"
+       inkscape:export-filename="/home/francesco/Lavoro/fgfs/airportPainter/airportPainter/imgs/windsock.png"
+       inkscape:export-xdpi="8.4054565"
+       inkscape:export-ydpi="8.4054565" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path3179"
+       sodipodi:cx="488.57144"
+       sodipodi:cy="635.2193"
+       sodipodi:rx="28.571428"
+       sodipodi:ry="48.57143"
+       d="M 497.76866,589.23319 A 28.571428,48.57143 0 0 1 488.57144,683.79073"
+       sodipodi:start="5.0401275"
+       sodipodi:end="7.8539816"
+       sodipodi:open="true"
+       transform="matrix(0.9901256,0,0,1.0824792,-450.74884,-766.19301)"
+       inkscape:export-filename="/home/francesco/Lavoro/fgfs/airportPainter/airportPainter/imgs/windsock.png"
+       inkscape:export-xdpi="8.4054565"
+       inkscape:export-ydpi="8.4054565" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path3183"
+       sodipodi:cx="488.57144"
+       sodipodi:cy="635.2193"
+       sodipodi:rx="28.571428"
+       sodipodi:ry="48.57143"
+       d="M 497.76866,589.23319 A 28.571428,48.57143 0 0 1 488.57144,683.79073"
+       sodipodi:start="5.0401275"
+       sodipodi:end="7.8539816"
+       sodipodi:open="true"
+       transform="matrix(0.9824379,0,0,1.1495949,-490.12374,-808.99302)"
+       inkscape:export-filename="/home/francesco/Lavoro/fgfs/airportPainter/airportPainter/imgs/windsock.png"
+       inkscape:export-xdpi="8.4054565"
+       inkscape:export-ydpi="8.4054565" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path3185"
+       sodipodi:cx="488.57144"
+       sodipodi:cy="635.2193"
+       sodipodi:rx="28.571428"
+       sodipodi:ry="48.57143"
+       d="M 497.76866,589.23319 A 28.571428,48.57143 0 0 1 488.57144,683.79073"
+       sodipodi:start="5.0401275"
+       sodipodi:end="7.8539816"
+       sodipodi:open="true"
+       transform="matrix(0.9468607,0,0,0.8689826,-378.28916,-621.03604)"
+       inkscape:export-filename="/home/francesco/Lavoro/fgfs/airportPainter/airportPainter/imgs/windsock.png"
+       inkscape:export-xdpi="8.4054565"
+       inkscape:export-ydpi="8.4054565" />
+  </g>
+</svg>

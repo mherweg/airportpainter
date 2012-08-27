@@ -1,0 +1,14 @@
+<shared_objects>
+	<!--object model="Models/Airport/apt-light.xml" svg="apt-light.svg" size="4"/-->
+	<object model="Models\/Airport\/thangar.ac" svg="thangar.svg" size="20" drawInAirport="true" drawInMap="false"/>
+	<object model="Models\/Airport\/thangar2.ac" svg="thangar2.svg" size="16" drawInAirport="true" drawInMap="false"/>
+	
+	
+	<!-- object model="Models/Commercial/generic_skyscraper_02.ac" svg="generic_skyscraper.svg" size="16" drawInAirport="false" drawInMap="true"/-->
+	<object model=".*generic_pylon_.*.xml" svg="generic_pylon.svg" size="10" drawInAirport="false" drawInMap="true"/>
+    <object model="^\{.*" svg="nothing" size="10" drawInAirport="false" drawInMap="false"/>
+	<!--object model="Models/Power/generic_pylon_.*.xml" svg="generic_pylon.svg" size="10" drawInAirport="false" drawInMap="true"/-->
+	
+	<!--default model="Models/Airport/apt-light.xml"/-->
+	<default model=""/>
+</shared_objects>

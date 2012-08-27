@@ -1,0 +1,32 @@
+<material_colors>
+	<material name="GrassCover" color="#90EE90"/>
+	<material name="Grass" color="#90EE90"/>
+	<material name="EvergreenForest" color="#32CD32"/>
+	<material name="DeciduousForest" color="#006400"/>
+	<material name="Bog" color="#006400"/>
+	<material name="MixedForestCover" color="#228B22"/>
+	<material name="EvergreenBroadCover" color="#006400"/>
+	<material name="SomeSort" color="#008000"/>
+	<material name="DryCropPastureCover" color="#32CD32"/>
+	<material name="DeciduousBroadCover" color="#32CD32"/>
+	<material name="HerbTundraCover" color="#32CD32"/>
+	<material name="MixedCropPastureCover" color="#32CD32"/>
+	<material name="IrrCropPastureCover" color="#32CD32"/>
+	<material name="Marsh" color="#32CD32"/>
+	<material name="ScrubCover" color="#32CD32"/>
+	<material name="Default" color="#32CD32"/>
+	<material name="ocean" color="#F0F0FF"/>
+	<material name="lake" color="#F0F0FF"/>
+	<material name="Stream" color="#F0F0FF"/>
+	<material name="Urban" color="#D3D3D3"/>
+	<material name="Town" color="#D3D3D3"/>
+	<material name="Airport" color="#D3D3D3"/>
+	<material name="Sand" color="#DAA520"/>
+	<material name="Glacier" color="#D3D3D3"/>
+	
+	<material name="Road" color="#696969" drawInMap="true"/>
+	<material name="RailRoad" color="#696969" drawInMap="true"/>
+	
+	<default color="#90EE90"/><!-- used when material is not specified here -->
+    <background color="#F0F0FF"/><!-- used as background for the map  -->
+</material_colors>
